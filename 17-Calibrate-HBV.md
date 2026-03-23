@@ -1,6 +1,11 @@
-# Chapter 17: Calibrate HBV
-JP Gannon
-2026-02-15
+---
+title: 'Chapter 17: Calibrate HBV'
+date: 2026-03-23T00:00:00.000Z
+authors:
+  - id: jpgannon
+github: https://github.com/VT-Hydroinformatics/17-calibrate-model-for-loops
+---
+
 
 # Intro to Modeling - Calibrate HBV
 
@@ -455,7 +460,7 @@ ggplot(pars100, aes(NSE))+
   geom_histogram()
 ```
 
-    `stat_bin()` using `bins = 30`. Pick better value with `binwidth`.
+    `stat_bin()` using `bins = 30`. Pick better value `binwidth`.
 
 ![](17-Calibrate-HBV_files/figure-commonmark/unnamed-chunk-10-1.png)
 
