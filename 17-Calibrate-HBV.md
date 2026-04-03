@@ -3,7 +3,27 @@ title: 'Chapter 17: Calibrate HBV'
 date: 2026-03-23T00:00:00.000Z
 authors:
   - id: jpgannon
+    name: JP Gannon
+    email: jpgannon@vt.edu
+    github: jpgannon
+    orcid: 0000-0002-4595-3214
+    corresponding: true
+    url: https://jpgannon.github.io/
+    affiliations:
+      - vt-tech
+affiliations:
+  - id: vt-tech
+    name: Virginia Tech
+    url: https://www.vt.edu/
+subject: Courseware
+doi: https://doi.org/10.4211/hs.fdc6f758de2b458d810f7f8bcba8f6a7
+venue:
+  title: View Resource on HydroShare
+  url: https://hydroshare.org/resource/fdc6f758de2b458d810f7f8bcba8f6a7/
 github: https://github.com/VT-Hydroinformatics/17-calibrate-model-for-loops
+downloads:
+  - file: 17-Calibrate-HBV.md
+  - file: 17-Calibrate-HBV.pdf
 ---
 
 
